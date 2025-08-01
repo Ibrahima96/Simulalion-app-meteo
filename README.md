@@ -18,7 +18,7 @@ Retrouvez le code source sur GitHub :
 ## Déploiement Netlify
 
 L'application est déployée et accessible à l'adresse suivante :  
-[https://votre-app-meteo.netlify.app](https://votre-app-meteo.netlify.app)
+[url_meteo](https://simulation-app-meteo-local.netlify.app/)
 
 ## Utilisation de `fetch` dans l'application
 
