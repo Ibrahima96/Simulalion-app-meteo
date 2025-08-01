@@ -1,26 +1,26 @@
 
 # Weather App
 
-Bienvenue sur le dépôt GitHub de l'application météo !  
-Ce projet utilise JavaScript pour récupérer et afficher les données météo à partir d'un fichier JSON local.
+Bienvenue sur le dépôt GitHub de l’application météo.
 
-## Aperçu de l'application
+Ce projet propose une application moderne permettant d’afficher les conditions météorologiques à partir de données stockées localement au format JSON. L’interface utilisateur est développée en JavaScript, offrant une expérience fluide et interactive.
 
-Voici un exemple de l'interface utilisateur de l'application :
+## Aperçu de l’application
+
+Exemple d’interface utilisateur :
 
 ![Aperçu de l'application météo](./shibuya.png)
 
 ## Dépôt GitHub
 
-Retrouvez le code source sur GitHub :  
-[lienGithub](https://github.com/Ibrahima96/Simulalion-app-meteo.git )
+Accédez au code source complet sur GitHub :  
+[https://github.com/Ibrahima96/Simulalion-app-meteo.git](https://github.com/Ibrahima96/Simulalion-app-meteo.git)
 
 ## Déploiement Netlify
 
-L'application est déployée et accessible à l'adresse suivante :  
-[url_meteo](https://simulation-app-meteo-local.netlify.app/)
+L’application est disponible en ligne à l’adresse suivante :  
+[https://simulation-app-meteo-local.netlify.app](https://simulation-app-meteo-local.netlify.app)
 
-## Utilisation de `fetch` dans l'application
+## Fonctionnement technique
 
-L'application utilise la méthode `fetch` pour récupérer les données météo depuis un fichier JSON local.
-
+L’application exploite la méthode `fetch` de JavaScript pour interroger un fichier JSON local contenant les données météorologiques, qui sont ensuite affichées dynamiquement dans l’interface utilisateur.
