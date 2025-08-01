@@ -13,7 +13,7 @@ Voici un exemple de l'interface utilisateur de l'application :
 ## Dépôt GitHub
 
 Retrouvez le code source sur GitHub :  
-[https://github.com/votre-utilisateur/weather-app](https://github.com/votre-utilisateur/weather-app)
+[lienGithub](https://github.com/Ibrahima96/Simulalion-app-meteo.git )
 
 ## Déploiement Netlify
 
