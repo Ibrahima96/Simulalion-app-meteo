@@ -13,6 +13,7 @@ async function getWeatherData() {
   } catch (error) {
     errorInfo.style.display = "block";
     errorInfo.textContent = error.message;
+    return;
   } finally {
     loader.classList.remove("js-loader-active");
   }
