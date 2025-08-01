@@ -16,9 +16,9 @@ async function getWeatherData() {
   } finally {
     loader.classList.remove("js-loader-active");
   }
-  console.log(data);
 
   populateUI(data[0]);
+  console.log(data);
 }
 
 getWeatherData();
