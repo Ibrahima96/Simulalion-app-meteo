@@ -11,6 +11,7 @@ async function getWeatherData() {
     }
     data = await response.json();
   } catch (error) {
+    errorInfo.style.display = "block";
     errorInfo.textContent = error.message;
   } finally {
     loader.classList.remove("js-loader-active");
